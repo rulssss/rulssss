@@ -7,7 +7,7 @@
 - I´m someone consistent and disciplined
 - Currently I´m studying cloud computing with AWS
 - Learning EC2, security best practices, and networking fundamentals
-- Hands-on projects in Python + PostgreSQL + AWS services 
+- Hands-on projects in Python + PostgreSQL + AWS services + Terraform
 
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
