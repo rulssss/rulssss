@@ -27,7 +27,10 @@
 ---
 
 ### ☁️ &nbsp;Cloud
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)&nbsp;
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![EC2](https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![VPC](https://img.shields.io/badge/VPC-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![IAM](https://img.shields.io/badge/IAM-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Amazon Aurora](https://img.shields.io/badge/Amazon%20Aurora-527FFF?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 ---
