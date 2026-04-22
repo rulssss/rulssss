@@ -31,6 +31,8 @@
 ![EC2](https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![VPC](https://img.shields.io/badge/VPC-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![IAM](https://img.shields.io/badge/IAM-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![ECS](https://img.shields.io/badge/ECS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![ECR](https://img.shields.io/badge/ECR-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Amazon Aurora](https://img.shields.io/badge/Amazon%20Aurora-527FFF?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 ---
