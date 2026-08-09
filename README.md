@@ -5,8 +5,7 @@
 - I´m systems engineer student
 - I love technology and logic
 - I´m someone consistent and disciplined
-- Currently I´m studying cloud computing with AWS
-- Hands-on projects in Python + AWS services + Terraform + CD/CI
+- Goal: Aspiring DevOps Engineer seeking to help teams automate, scale, and optimize their delivery pipelines.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
