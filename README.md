@@ -1,16 +1,32 @@
 <h1 align="center"><b>Hi , I'm rulss </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
+<p align="center">
+  <b>Systems Engineering Student | Aspiring DevOps Engineer</b><br>
+  Building real cloud projects with Docker, AWS, CI/CD & automation
+</p>
+
 **About me**
 
-- I´m systems engineer student
+- Systems engineer student
 - I love technology and logic
-- I´m someone consistent and disciplined
-- Goal: Aspiring DevOps Engineer seeking to help teams automate, scale, and optimize their delivery pipelines.
+- I'm someone consistent and disciplined
+- Goal: Aspiring DevOps Engineer seeking to help teams automate, scale, and optimize their delivery pipelines
+- Currently looking for a **part-time** DevOps / Cloud role while continuing my studies
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
+### Featured Projects
+
+- **[dockerized-api-cicd](https://github.com/rulssss/dockerized-api-cicd)** → Full CI/CD pipeline (GitHub Actions + ECS Fargate Staging/Production + rollback + CloudWatch + security)
+- **[aws-dockerized-api](https://github.com/rulssss/aws-dockerized-api)** → Dockerized API deployed to AWS ECR + ECS + ALB + DynamoDB
+- **[AWS_labs](https://github.com/rulssss/AWS_labs)** → Hands-on labs: EC2, Auto Scaling, ALB, RDS/Aurora, secure S3
+- **[devops-intern-labs](https://github.com/rulssss/devops-intern-labs)** → Practical labs with Linux, Bash, Python, Docker & automation
+
+---
+
 ### 🛠 &nbsp;Programming Languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)&nbsp;
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 
@@ -19,6 +35,7 @@
 ### ⚙️ &nbsp;DevOps & Tools
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)&nbsp;
 
 ---
 
@@ -30,11 +47,13 @@
 ![ECS](https://img.shields.io/badge/ECS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![ECR](https://img.shields.io/badge/ECR-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Amazon Aurora](https://img.shields.io/badge/Amazon%20Aurora-527FFF?style=for-the-badge&logo=amazonaws&logoColor=white)
+![CloudWatch](https://img.shields.io/badge/CloudWatch-FF4F8B?style=for-the-badge&logo=amazon-cloudwatch&logoColor=white)
 
 ---
 
 ### 🗃 &nbsp;Databases
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
+![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazon-dynamodb&logoColor=white)&nbsp;
 
 ---
 
@@ -43,6 +62,13 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
+
+---
+
+### Currently Learning
+- Terraform (Infrastructure as Code)
+- Advanced AWS architecture
+- Technical English
 
 ---
 
