@@ -67,7 +67,6 @@
 
 ### Currently Learning
 - Terraform (Infrastructure as Code)
-- Advanced AWS architecture
 - Technical English
 
 ---
