@@ -1,9 +1,12 @@
-# **Hi, I'm rulss** <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7zF/giphy.gif" width="35">
+<h1 align="center">Hi, I'm rulss <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-**Systems Engineering Student | Aspiring Cloud Engineer**  
+<p align="center">
+<b>Systems Engineering Student | Aspiring Cloud Engineer</b><br>
 Designing, deploying and operating real infrastructure on AWS
+</p>
 
-**About me**
+### About me
+
 - Systems Engineering student at UTN FRC
 - I love technology and logic
 - I'm someone consistent and disciplined
